@@ -26,13 +26,13 @@ Human machine collaborative testing including testing guide for testers [CHI'22,
 AI-empowered mining software repository including issue report mining [ESEM'23, ESEM'24].
 
 
-My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>131</span></strong></a> 
-(You can also use google scholar badge <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>131</span></strong></a>.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp; There full research papers are accepted at International Conference on Software Engineering (ICSE'24).
+- *2023.05*: &nbsp;🎉🎉 I received the The ACM Student Research Competition (SRC) 2023 **Grand Finals Winners**, ***1st Place***, Graduate Category. 
+- *2022.05*: &nbsp;🎉🎉 I received the The ACM Student Research Competition (SRC) at ICSE 2022, ***1st Place***, Graduate Category. 
+- *2020.09*: &nbsp;🎉🎉 I received the The ACM Student Research Competition (SRC) at ASE 2020, ***1st Place***, Graduate Category.  
 
 # 📝 Publications 
 
