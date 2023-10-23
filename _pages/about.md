@@ -101,13 +101,27 @@ My research interest includes Software Engineering and Human Machine Interaction
 
 # 🎖 Honors and Awards
 1. *2023*: 🏆 The ACM Student Research Competition (SRC) 2023 **Grand Finals Winners**, ***1st Place***, Graduate Category.
-2. *2023*: 
-3. *2022*: &nbsp;🎉🎉 The ACM Student Research Competition (SRC) at ICSE 2022, ***1st Place***, Graduate Category. 
-4. *2020*: &nbsp;🎉🎉 The ACM Student Research Competition (SRC) at ASE 2020, ***1st Place***, Graduate Category.  
+2. *2023*: 🎖 中国科学院院长优秀奖
+3. *2023*: 🎖 北京市优秀毕业生
+4. *2023*: 🎖 北京市三好学生
+5. *2023*: 🎖 中国科学院大学优秀毕业生
+6. *2023*: 🎖 中国科学院大学优秀学生干部
+7. *2023*: 🎖 中国科学院大学优秀共青团员
+8. *2022*: 🏆 The ACM Student Research Competition (SRC) at ICSE 2022, ***1st Place***, Graduate Category.
+9. *2022*: 🎖 中国科学院大学三好学生标兵
+10. *2022*: 🎖 中国科学院大学优秀学生干部
+11. *2022*: 🎖 中国科学院软件研究所学术年会优秀海报奖
+12. *2021*: 🎖 博士研究生国家奖学金
+13. *2021*: 🎖 中国科学院大学三好学生标兵
+14. *2021*: 🎖 中国科学院大学优秀学生干部
+15. *2021*: 🎖 中国科学院软件研究所学术年会优秀海报奖
+16. *2020*: 🏆 The ACM Student Research Competition (SRC) at ASE 2020, ***1st Place***, Graduate Category.
+17. *2020*: 🎖 硕士研究生国家奖学金
+18. *2020*: 🎖 中国科学院大学三好学生
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2023.06*, PHD, University of Chinese Academy of Sciences. 
+- *2014.09 - 2019.06*, Undergraduate, Sichuan University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
