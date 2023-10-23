@@ -121,7 +121,8 @@ My research interest includes Software Engineering and Human Machine Interaction
 
 # 📖 Educations
 - *2018.09 - 2023.06*, PHD, University of Chinese Academy of Sciences. 
-- *2014.09 - 2019.06*, Undergraduate, Sichuan University. 
+- *2014.09 - 2018.06*, Undergraduate, Sichuan University.
+- *2011.09 - 2014.06*, High-school, Zhengzhou Foreign Language School.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
