@@ -126,10 +126,7 @@ My research interest includes Software Engineering and Human Machine Interaction
 
 # 📷 Interests
 ## Personal photography
-<div class='paper-box-image'><div><div class="badge">喀纳斯湖</div><img src='images/kanasi-a.png' alt="sym" width="30%"></div></div>
-<div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="30%"></div></div>
-<div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="30%"></div></div>
-<div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="30%"></div></div>
+<div class='paper-box-image'><div><div class="badge">喀纳斯湖</div><img src='images/kanasi-a.png' alt="sym" width="30%"></div></div> <div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="30%"></div></div> <div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="30%"></div></div> <div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-image'><div><div class="badge">五彩滩</div><img src='images/wucaitan.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-image'><div><div class="badge">七彩丹霞</div><img src='images/danxia.png' alt="sym" width="30%"></div></div>
@@ -138,3 +135,5 @@ My research interest includes Software Engineering and Human Machine Interaction
 <div class='paper-box-image'><div><div class="badge">长白山天池</div><img src='images/changbaishan.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-image'><div><div class="badge">茶卡盐湖</div><img src='images/chaka.png' alt="sym" width="30%"></div></div>
 
+# 📖 Visitors
+<a href="https://info.flagcounter.com/d7Rv"><img src="https://s01.flagcounter.com/map/d7Rv/size_m/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
