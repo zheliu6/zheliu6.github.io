@@ -127,16 +127,16 @@ My research interest includes Software Engineering and Human Machine Interaction
 # 📷 Interests
 ## Personal photography
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">喀纳斯湖</div><img src='images/kanasi-a.png' alt="sym" width="60%"></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="60%"></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="60%"></div></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="60%"></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="60%"></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">五彩滩</div><img src='images/wucaitan.png' alt="sym" width="60%"></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">七彩丹霞</div><img src='images/danxia.png' alt="sym" width="60%"></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">慕田峪长城</div><img src='images/mutianyu.png' alt="sym" width="60%"></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">门源油菜花</div><img src='images/menyuan.png' alt="sym" width="60%"></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">长白山天池</div><img src='images/changbaishan.png' alt="sym" width="60%"></div></div> &nbsp; 
-<div class='paper-box-image'><div><div class="badge">茶卡盐湖</div><img src='images/chaka.png' alt="sym" width="60%"></div></div> &nbsp; 
+<div class='paper-box-image'><div><div class="badge">喀纳斯湖</div><img src='images/kanasi-a.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">五彩滩</div><img src='images/wucaitan.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">七彩丹霞</div><img src='images/danxia.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">慕田峪长城</div><img src='images/mutianyu.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">门源油菜花</div><img src='images/menyuan.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">长白山天池</div><img src='images/changbaishan.png' alt="sym" width="60%"></div></div>&nbsp;
+<div class='paper-box-image'><div><div class="badge">茶卡盐湖</div><img src='images/chaka.png' alt="sym" width="60%"></div></div>&nbsp;
 </div>
 
