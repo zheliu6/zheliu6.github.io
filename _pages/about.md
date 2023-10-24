@@ -82,9 +82,6 @@ My research interest includes Software Engineering and Human Machine Interaction
    ACM/IEEE 14th International Symposium on Empirical Software Engineering and Measurement (CCF-B)  
    Yuekai Huang, Junjie Wang, Song Wang, ***Zhe Liu***, Yuanzhe Hu, Qing Wang
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,7 +94,6 @@ My research interest includes Software Engineering and Human Machine Interaction
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 1. *2023*: 🏆 The ACM Student Research Competition (SRC) 2023 **Grand Finals Winners**, ***1st Place***, Graduate Category.
@@ -128,5 +124,15 @@ My research interest includes Software Engineering and Human Machine Interaction
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📷 Interests
+## Personal photography
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">喀纳斯湖</div><img src='images/kanasi-a.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">五彩滩</div><img src='images/wucaitan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">七彩丹霞</div><img src='images/danxia.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">慕田峪长城/div><img src='images/mutianyu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">门源油菜花</div><img src='images/menyuan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">长白山天池</div><img src='images/changbaishan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">茶卡盐湖</div><img src='images/chaka.png' alt="sym" width="100%"></div></div>
+
