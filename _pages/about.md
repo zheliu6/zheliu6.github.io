@@ -126,8 +126,7 @@ My research interest includes Software Engineering and Human Machine Interaction
 
 # 📷 Interests
 ## Personal photography
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">喀纳斯湖</div><img src='images/kanasi-a.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">喀纳斯湖</div><img src='images/kanasi-a.png' alt="sym" width="100%"></div><div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="100%"></div><div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">喀纳斯卧龙湾</div><img src='images/kanasi-b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">喀拉峻大草原</div><img src='images/kalajun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">五彩滩</div><img src='images/wucaitan.png' alt="sym" width="100%"></div></div>
