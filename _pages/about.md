@@ -26,7 +26,7 @@ Human machine collaborative testing including testing guide for testers [CHI'22,
 AI-empowered mining software repository including issue report mining [ESEM'23, ESEM'24].
 
 
-My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>131</span></strong></a>.
+My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>132</span></strong></a>.
 
 # 🔥 News
 - *2023.10*: &nbsp; There full research papers are accepted at International Conference on Software Engineering (ICSE'24).
@@ -120,9 +120,11 @@ My research interest includes Software Engineering and Human Machine Interaction
 - *2014.09 - 2018.06*, Undergraduate, Sichuan University.
 - *2011.09 - 2014.06*, High-school, Zhengzhou Foreign Language School.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🗄 Projects
+- *2019 - 2022*, National Key Research and Development Program of China
+- *2021 - 2024*, National Natural Science Foundation of China Grant
+- *2023 - 2027*, National Natural Science Foundation of China Grant
+- *2023 - 2024*, Populus Innovation Research Funding
 
 # 📷 Interests
 ## 🖼 Personal photography
