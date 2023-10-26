@@ -31,6 +31,7 @@ My research interest includes Software Engineering and Human Machine Interaction
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 Three full research papers are accepted at International Conference on Software Engineering (ICSE'24).
 - *2023.05*: &nbsp;🎉🎉 I received the ACM Student Research Competition (SRC) 2023 **Grand Finals Winners**, ***1st Place***, Graduate Category. (The first doctoral student in Chinese Mainland to win the honor.)
+- *2022.11*: &nbsp;🎉🎉 Three full research papers are accepted at International Conference on Software Engineering (ICSE'23).
 - *2022.05*: &nbsp;🎉🎉 I received the ACM Student Research Competition (SRC) at ICSE 2022, ***1st Place***, Graduate Category. 
 - *2020.09*: &nbsp;🎉🎉 I received the ACM Student Research Competition (SRC) at ASE 2020, ***1st Place***, Graduate Category.  
 
