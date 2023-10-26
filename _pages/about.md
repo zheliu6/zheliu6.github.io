@@ -68,7 +68,7 @@ My research interest includes Software Engineering and Human Machine Interaction
    ***Zhe Liu***, Chunyang Chen, Junjie Wang, Yuekai Huang, Jun Hu, Qing Wang
 1. [FSE-Demo 2020] **OwlEyes-online: a fully automated platform for detecting and localizing UI display issues**  
    29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (CCF-A)  
-   Yuhui Su*, ***Zhe Liu\****, Chunyang Chen, Junjie Wang, Yuekai Huang, Jun Hu, Qing Wang
+   Yuhui Su\*, ***Zhe Liu\****, Chunyang Chen, Junjie Wang, Yuekai Huang, Jun Hu, Qing Wang
 1. [ASE 2020] **Owl eyes: Spotting ui display issues via visual understanding**  
    IEEE/ACM 35th International Conference on Automated Software Engineering (CCF-A)  
    ***Zhe Liu***, Chunyang Chen, Junjie Wang, Yuekai Huang, Jun Hu, Qing Wang
