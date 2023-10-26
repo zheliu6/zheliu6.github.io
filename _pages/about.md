@@ -79,7 +79,7 @@ My research interest includes Software Engineering and Human Machine Interaction
 1. [ESEM 2021] **Characterizing and predicting good first issues**  
    ACM/IEEE 15th International Symposium on Empirical Software Engineering and Measurement (CCF-B)  
    Yuekai Huang, Junjie Wang, Song Wang, ***Zhe Liu***, Dandan Wang, Qing Wang
-1. [ESEM 2020] **Owl eyes: Spotting ui display issues via visual understanding**  
+1. [ESEM 2020] **Quest for the golden approach: An experimental evaluation of duplicate crowdtesting reports detection**  
    ACM/IEEE 14th International Symposium on Empirical Software Engineering and Measurement (CCF-B)  
    Yuekai Huang, Junjie Wang, Song Wang, ***Zhe Liu***, Yuanzhe Hu, Qing Wang
 
