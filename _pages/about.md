@@ -57,8 +57,8 @@ My research interest includes Software Engineering and Human Machine Interaction
    IEEE/ACM 45th International Conference on Software Engineering (CCF-A)  
    Yuchao Huang, Junjie Wang, ***Zhe Liu***, Song Wang, Chunyang Chen, Mingyang Li, Qing Wang
 1. [ICSE-Demo 2022] **NaviDroid: a tool for guiding manual Android testing via hint moves**  
-   IEEE/ACM 45th International Conference on Software Engineering - Demo (CCF-A)  
-   Yuhui Su, Chunyang Chen, Junjie Wang, ***Zhe Liu***, Dandan Wang, Shoubin Li, Qing Wang  
+   IEEE/ACM 44th International Conference on Software Engineering - Demo (CCF-A)  
+   Zhe Liu, Chunyang Chen, Junjie Wang, Yuhui Su, Qing Wang  
 1. [ASE 2022] **The Metamorphosis: Automatic Detection of Scaling Issues for Mobile Apps**  
    IEEE/ACM 37th International Conference on Automated Software Engineering (CCF-A)  
    Yuhui Su, Chunyang Chen, Junjie Wang, ***Zhe Liu***, Dandan Wang, Shoubin Li, Qing Wang
