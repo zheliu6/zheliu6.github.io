@@ -21,7 +21,7 @@ I am an assistant to special researcher (assistant scientist) at the Institute o
 
 AI(LLM)-assisted automated mobile app development including requirement elicitation app GUI testing [ICSE'23a, ICSE'23b, ICSE'24a, ICSE'24b], usability [ASE'20, FSE'21, TSE'22, ASE'22], and bug replay [ICSE'23, ICSE'24].
 
-Human machine collaborative testing including testing guide for testers [CHI'22, ICSE'22].
+Human machine collaborative testing including testing guide for testers [CHI'24, CHI'22, ICSE'22].
 
 AI-empowered mining software repository including issue report mining [ESEM'20, ESEM'21].
 
@@ -29,6 +29,7 @@ AI-empowered mining software repository including issue report mining [ESEM'20, 
 My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>202</span></strong></a>.
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 A full research papers is accepted at Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI'24).
 - *2023.10*: &nbsp;🎉🎉 Three full research papers are accepted at International Conference on Software Engineering (ICSE'24).
 - *2023.05*: &nbsp;🎉🎉 I received the ACM Student Research Competition (SRC) 2023 **Grand Finals Winners**, ***1st Place***, Graduate Category. (The first doctoral student in Chinese Mainland to win the honor.)
 - *2023.05*: &nbsp;🎉🎉 I received the "President of Chinese Chinese Academy of Sciences the Prize Scholarship"(中国科学院院长优秀奖).
@@ -38,12 +39,15 @@ My research interest includes Software Engineering and Human Machine Interaction
 
 # 📝 Publications 
 
+1. [CHI 2024] **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions**
+   2024 CHI Conference on Human Factors in Computing Systems (CCF-A)  
+   ***Zhe Liu***, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yuekai Huang, Jun Hu, Qing Wang
 1. [ICSE 2024] **Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions**
    IEEE/ACM 46th International Conference on Software Engineering (CCF-A)  
    ***Zhe Liu***, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Xing Che, Dandan Wang, Qing Wang
 1. [ICSE 2024] **Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model**  
    IEEE/ACM 46th International Conference on Software Engineering (CCF-A)  
-   ***Zhe Liu***, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Zhilin Tian, Yuekai Huang, JunHu, Qing Wang
+   ***Zhe Liu***, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Zhilin Tian, Yuekai Huang, Jun Hu, Qing Wang
 1. [ICSE 2024] **CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace**  
    IEEE/ACM 46th International Conference on Software Engineering (CCF-A)  
    Yuchao Huang, Junjie Wang, ***Zhe Liu***, Yawen Wang, Song Wang, Chunyang Chen, Yuanzhe Hu, Qing Wang  
