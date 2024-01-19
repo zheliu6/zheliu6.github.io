@@ -29,7 +29,7 @@ AI-empowered mining software repository including issue report mining [ESEM'20, 
 My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>202</span></strong></a>.
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 A full research papers is accepted at Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI'24).
+- *2024.01*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI'24).
 - *2023.10*: &nbsp;🎉🎉 Three full research papers are accepted at International Conference on Software Engineering (ICSE'24).
 - *2023.05*: &nbsp;🎉🎉 I received the ACM Student Research Competition (SRC) 2023 **Grand Finals Winners**, ***1st Place***, Graduate Category. (The first doctoral student in Chinese Mainland to win the honor.)
 - *2023.05*: &nbsp;🎉🎉 I received the "President of Chinese Chinese Academy of Sciences the Prize Scholarship"(中国科学院院长优秀奖).
