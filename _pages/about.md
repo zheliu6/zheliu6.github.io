@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant to special researcher (assistant scientist) at the Institute of Software Chinese Academy of Sciences, University of Chinese Academy of Sciences, China. I obtained my PhD from University of Chinese Academy of Sciences (UCAS), China. My research focuses on Software Engineering, Mobile Testing, Deep Learning and Human-Computer Interaction. Specifically, I apply AI and light-weight program analysis technology in the following directions:
+I am an assistant to special researcher (assistant scientist) at the Institute of Software Chinese Academy of Sciences, University of Chinese Academy of Sciences, China. I obtained my PhD from University of Chinese Academy of Sciences (UCAS), China. I received the ACM Student Research Competition (SRC) 2023 Grand Finals Winners, 1st Place, Graduate Category, in 2023. (The first doctoral student in Chinese Mainland to win the honor.) My research focuses on Software Engineering, Mobile Testing, Deep Learning and Human-Computer Interaction. Specifically, I apply AI and light-weight program analysis technology in the following directions:
 
 AI(LLM)-assisted automated mobile app development including requirement elicitation app GUI testing [ICSE'23a, ICSE'23b, ICSE'24a, ICSE'24b], usability [ASE'20, FSE'21, TSE'22, ASE'22], and bug replay [ICSE'23, ICSE'24].
 
