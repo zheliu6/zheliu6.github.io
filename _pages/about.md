@@ -39,6 +39,9 @@ My research interest includes Software Engineering and Human Machine Interaction
 
 # 📝 Publications 
 
+1. [TSE 2024] **Software Testing with Large Language Models: Survey, Landscape, and Vision**  
+   IEEE Transactions on Software Engineering (CCF-A)  
+   Junjie Wang, Yuchao Huang, Chunyang Chen, ***Zhe Liu***, Song Wang, Qing Wang
 1. [CHI 2024] **Unblind Text Inputs: Predicting Hint-text of Text Input in Mobile Apps via LLM**    
    2024 CHI Conference on Human Factors in Computing Systems (CCF-A)  
    ***Zhe Liu***, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yuekai Huang, Jun Hu, Qing Wang
