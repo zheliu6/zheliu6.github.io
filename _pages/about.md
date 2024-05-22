@@ -63,31 +63,31 @@ My research interest includes Software Engineering and Human Machine Interaction
 1. [ICSE 2023] **Context-aware Bug Reproduction for Mobile Apps**  
    IEEE/ACM 45th International Conference on Software Engineering (CCF-A)  
    Yuchao Huang, Junjie Wang, ***Zhe Liu***, Song Wang, Chunyang Chen, Mingyang Li, Qing Wang
-1. [ICSE-Demo 2022] **NaviDroid: a tool for guiding manual Android testing via hint moves**  
+1. [ICSE-Demo 2022] **NaviDroid: A tool for Guiding Manual Android Testing via Hint Moves**  
    IEEE/ACM 44th International Conference on Software Engineering - Demo (CCF-A)  
    Zhe Liu, Chunyang Chen, Junjie Wang, Yuhui Su, Qing Wang  
 1. [ASE 2022] **The Metamorphosis: Automatic Detection of Scaling Issues for Mobile Apps**  
    IEEE/ACM 37th International Conference on Automated Software Engineering (CCF-A)  
    Yuhui Su, Chunyang Chen, Junjie Wang, ***Zhe Liu***, Dandan Wang, Shoubin Li, Qing Wang
-1. [CHI 2022] **Guided bug crush: Assist manual GUI testing of Android apps via hint moves**  
+1. [CHI 2022] **Guided Bug Crush: Assist Manual GUI Testing of Android Apps via Hint Moves**  
    2022 CHI Conference on Human Factors in Computing Systems (CCF-A)  
    ***Zhe Liu***, Chunyang Chen, Junjie Wang, Yuekai Huang, Jun Hu, Qing Wang
-1. [TSE 2022] **Nighthawk: fully automated localizing UI display issues via visual understanding**  
+1. [TSE 2022] **Nighthawk: Fully Automated Localizing UI Display Issues via Visual Understanding**  
    IEEE Transactions on Software Engineering (CCF-A)  
    ***Zhe Liu***, Chunyang Chen, Junjie Wang, Yuekai Huang, Jun Hu, Qing Wang
-1. [FSE-Demo 2020] **OwlEyes-online: a fully automated platform for detecting and localizing UI display issues**  
+1. [FSE-Demo 2020] **OwlEyes-online: A Fully Automated Platform for Detecting and Localizing UI Display Issues**  
    29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (CCF-A)  
    Yuhui Su\*, ***Zhe Liu\****, Chunyang Chen, Junjie Wang, Yuekai Huang, Jun Hu, Qing Wang
-1. [ASE 2020] **Owl eyes: Spotting ui display issues via visual understanding**  
+1. [ASE 2020] **Owl Eyes: Spotting UI Display Issues via Visual Understanding**  
    IEEE/ACM 35th International Conference on Automated Software Engineering (CCF-A)  
    ***Zhe Liu***, Chunyang Chen, Junjie Wang, Yuekai Huang, Jun Hu, Qing Wang
 1. [软件学报 2020] **移动应用程序中用户界面显示缺陷检测的经验研究**  
    Journal of Software (软件学报)  
    ***Zhe Liu***, Chunyang Chen, Junjie Wang, Xing Che, Yuhui Su, Qing Wang
-1. [ESEM 2021] **Characterizing and predicting good first issues**  
+1. [ESEM 2021] **Characterizing and Predicting Good First Issues**  
    ACM/IEEE 15th International Symposium on Empirical Software Engineering and Measurement (CCF-B)  
    Yuekai Huang, Junjie Wang, Song Wang, ***Zhe Liu***, Dandan Wang, Qing Wang
-1. [ESEM 2020] **Quest for the golden approach: An experimental evaluation of duplicate crowdtesting reports detection**  
+1. [ESEM 2020] **Quest for The Golden Approach: An Experimental Evaluation of Duplicate Crowdtesting Reports Detection**  
    ACM/IEEE 14th International Symposium on Empirical Software Engineering and Measurement (CCF-B)  
    Yuekai Huang, Junjie Wang, Song Wang, ***Zhe Liu***, Yuanzhe Hu, Qing Wang
 
