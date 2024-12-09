@@ -26,7 +26,7 @@ Human machine collaborative testing including testing guide for testers [CHI'24,
 AI-empowered mining software repository including issue report mining [ESEM'20, ESEM'21].
 
 
-My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>641</span></strong></a>.
+My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>653</span></strong></a>.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I received the "Doctoral Dissertation Incentive Program of the Software Engineering Professional Committee of the CCF".
@@ -42,6 +42,9 @@ My research interest includes Software Engineering and Human Machine Interaction
 
 # 📝 Publications 
 
+1. [TOSEM 2024] **Deep API Sequence Generation via Golden Solution Samples and API Seeds**  
+   ACM Transactions on Software Engineering and Methodology (CCF-A)  
+   Yuekai Huang, Junjie Wang, Song Wang, Moshi Wei, Lin Shi, ***Zhe Liu***, Qing Wang
 1. [TSE 2024] **Software Testing with Large Language Models: Survey, Landscape, and Vision**  
    IEEE Transactions on Software Engineering (CCF-A)  
    Junjie Wang, Yuchao Huang, Chunyang Chen, ***Zhe Liu***, Song Wang, Qing Wang
