@@ -19,7 +19,7 @@ redirect_from:
 
 I am an assistant to special researcher (assistant scientist) at the Institute of Software Chinese Academy of Sciences, University of Chinese Academy of Sciences, China. I obtained my PhD from University of Chinese Academy of Sciences (UCAS), China. I received the ACM Student Research Competition (SRC) 2023 Grand Finals Winners, 1st Place, Graduate Category, in 2023. (The first doctoral student in Chinese Mainland to win the honor.) My research focuses on Software Engineering, Mobile Testing, Deep Learning and Human-Computer Interaction. Specifically, I apply AI and light-weight program analysis technology in the following directions:
 
-AI(LLM)-assisted automated mobile app development including requirement elicitation app GUI testing [ICSE'23a, ICSE'23b, ICSE'24a, ICSE'24b], usability [ASE'20, FSE'21, TSE'22, ASE'22], and bug replay [ICSE'23, ICSE'24].
+AI(LLM)-assisted automated mobile app development including requirement elicitation app GUI testing [ICSE'23a, ICSE'23b, ICSE'24a, ICSE'24b, FSE'25], usability [ASE'20, FSE'21, TSE'22, ASE'22], and bug replay [ICSE'23, ICSE'24].
 
 Human machine collaborative testing including testing guide for testers [CHI'24, CHI'22, ICSE'22].
 
@@ -29,6 +29,7 @@ AI-empowered mining software repository including issue report mining [ESEM'20, 
 My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>731</span></strong></a>.
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 2025 ACM International Conference on the Foundations of Software Engineering (FSE'25).
 - *2024.09*: &nbsp;🎉🎉 I received the "Doctoral Dissertation Incentive Program of the Software Engineering Professional Committee of the CCF".
 - *2024.08*: &nbsp;🎉🎉 I received the "Excellent Doctoral Dissertation of Chinese Academy of Sciences in 2024".
 - *2024.05*: &nbsp;🎉🎉 The paper received the "Best　Paper　Honourable　Mention" in CHI'24.
@@ -42,6 +43,9 @@ My research interest includes Software Engineering and Human Machine Interaction
 
 # 📝 Publications 
 
+1. [FSE 2025] **Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation**  
+   ACM International Conference on the Foundations of Software Engineering (CCF-A)  
+   Mengzhuo Chen, ***Zhe Liu(co-first author)***, Chunyang Chen, Junjie Wang, Boyu Wu, Jun Hu, Qing Wang
 1. [TOSEM 2024] **Deep API Sequence Generation via Golden Solution Samples and API Seeds**  
    ACM Transactions on Software Engineering and Methodology (CCF-A)  
    Yuekai Huang, Junjie Wang, Song Wang, Moshi Wei, Lin Shi, ***Zhe Liu***, Qing Wang
