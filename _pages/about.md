@@ -46,6 +46,9 @@ My research interest includes Software Engineering and Human Machine Interaction
 1. [FSE 2025] **Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation**  
    ACM International Conference on the Foundations of Software Engineering (CCF-A)  
    Mengzhuo Chen, ***Zhe Liu(co-first author)***, Chunyang Chen, Junjie Wang, Boyu Wu, Jun Hu, Qing Wang
+1. [TSE 2025] **One Sentence Can Kill the Bug: Auto-replay Mobile App Crashes from One-sentence Overviews**  
+   IEEE Transactions on Software Engineering (CCF-A)  
+   Yuchao Huang, Junjie Wang, **Zhe Liu**, Mingyang Li, Song Wang, Chunyang Chen, Yuanzhe Hu, Qing Wang
 1. [TOSEM 2024] **Deep API Sequence Generation via Golden Solution Samples and API Seeds**  
    ACM Transactions on Software Engineering and Methodology (CCF-A)  
    Yuekai Huang, Junjie Wang, Song Wang, Moshi Wei, Lin Shi, ***Zhe Liu***, Qing Wang
