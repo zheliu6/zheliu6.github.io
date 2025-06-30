@@ -29,6 +29,7 @@ AI-empowered mining software repository including issue report mining [ESEM'20, 
 My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>1163</span></strong></a>.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26).
 - *2025.01*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 2025 ACM International Conference on the Foundations of Software Engineering (FSE'25).
 - *2024.09*: &nbsp;🎉🎉 I received the "Doctoral Dissertation Incentive Program of the Software Engineering Professional Committee of the CCF".
 - *2024.08*: &nbsp;🎉🎉 I received the "Excellent Doctoral Dissertation of Chinese Academy of Sciences in 2024".
@@ -43,6 +44,10 @@ My research interest includes Software Engineering and Human Machine Interaction
 
 # 📝 Publications 
 
+
+1. [ICSE 2026] **Think Outside the Box: Automating Inter-App Functionality Testing via Memory Implanting and Reasoning**  
+   IEEE/ACM International Conference on Software Engineering (CCF-A)  
+   Mengzhuo Chen, ***Zhe Liu(co-first author)***, Chunyang Chen, Junjie Wang, Yangguang Xue, Boyu Wu, Libin Wu, Qing Wang
 1. [FSE 2025] **Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation**  
    ACM International Conference on the Foundations of Software Engineering (CCF-A)  
    Mengzhuo Chen, ***Zhe Liu(co-first author)***, Chunyang Chen, Junjie Wang, Boyu Wu, Jun Hu, Qing Wang
