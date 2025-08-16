@@ -26,9 +26,10 @@ Human machine collaborative testing including testing guide for testers [CHI'24,
 AI-empowered mining software repository including issue report mining [ESEM'20, ESEM'21].
 
 
-My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>1265</span></strong></a>.
+My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>1272</span></strong></a>.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25).
 - *2025.05*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26).
 - *2025.01*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 2025 ACM International Conference on the Foundations of Software Engineering (FSE'25).
 - *2024.09*: &nbsp;🎉🎉 I received the "Doctoral Dissertation Incentive Program of the Software Engineering Professional Committee of the CCF".
@@ -45,6 +46,9 @@ My research interest includes Software Engineering and Human Machine Interaction
 # 📝 Publications 
 
 
+1. [ASE 2025] **Beyond Static GUI Agent: Evolving LLM-based GUI Testing via Dynamic Memory**  
+   IEEE/ACM International Conference on Automated Software Engineering (CCF-A)  
+   Mengzhuo Chen, ***Zhe Liu(co-first author)***, Chunyang Chen, Junjie Wang, Yangguang Xue, Boyu Wu, Yuekai Huang, Libin Wu, Qing Wang
 1. [ICSE 2026] **Think Outside the Box: Automating Inter-App Functionality Testing via Memory Implanting and Reasoning**  
    IEEE/ACM International Conference on Software Engineering (CCF-A)  
    Mengzhuo Chen, ***Zhe Liu(co-first author)***, Chunyang Chen, Junjie Wang, Yangguang Xue, Boyu Wu, Libin Wu, Qing Wang
