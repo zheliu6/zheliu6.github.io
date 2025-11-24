@@ -29,6 +29,7 @@ AI-empowered mining software repository including issue report mining [ESEM'20, 
 My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>1509</span></strong></a>.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 I received the "Distinguished Reviewer Award" in ASE 2025.
 - *2025.09*: &nbsp;🎉🎉 A full research paper is accepted at IEEE Transactions on Software Engineering (TSE'25).
 - *2025.08*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25).
 - *2025.05*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE'26).
@@ -45,11 +46,12 @@ My research interest includes Software Engineering and Human Machine Interaction
 - *2020.09*: &nbsp;🎉🎉 I received the ACM Student Research Competition (SRC) at ASE 2020, ***1st Place***, Graduate Category.  
 
 # 📝 Publications 
-
-
 1. [TSE 2025] **Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps**  
    IEEE Transactions on Software Engineering (CCF-A)  
-   ***Zhe Liu(co-first author)***, Cheng Li, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yawen Wang, Jun Hu, Qing Wang
+   ***Zhe Liu***, Cheng Li, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yawen Wang, Jun Hu, Qing Wang
+1. [AAAI 2026] **Many Minds, One Path: LLM-Augmented Consensus Decision for Distributed Control in Multi-Agent Collaborative Stable Scenarios**  
+   The Fortieth AAAI Conference on Artificial Intelligence (CCF-A)  
+   Zhuohao Yu, ***Zhe Liu(co-first author)***, Tao Ren, Chenxue Wang, Junjie Wang, Qing Wang
 1. [ASE 2025] **Beyond Static GUI Agent: Evolving LLM-based GUI Testing via Dynamic Memory**  
    IEEE/ACM International Conference on Automated Software Engineering (CCF-A)  
    Mengzhuo Chen, ***Zhe Liu(co-first author)***, Chunyang Chen, Junjie Wang, Yangguang Xue, Boyu Wu, Yuekai Huang, Libin Wu, Qing Wang
