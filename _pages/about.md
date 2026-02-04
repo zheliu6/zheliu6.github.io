@@ -26,7 +26,7 @@ Human machine collaborative testing including testing guide for testers [CHI'24,
 AI-empowered mining software repository including issue report mining [ESEM'20, ESEM'21].
 
 
-My research interest includes Software Engineering and Human Machine Interaction. I have published 22 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>1557</span></strong></a>.
+My research interest includes Software Engineering and Human Machine Interaction. I have published 22 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>1709</span></strong></a>.
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 I received the "Distinguished Reviewer Award" in ASE 2025.
