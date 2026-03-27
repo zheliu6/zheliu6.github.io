@@ -29,6 +29,7 @@ AI-empowered mining software repository including issue report mining [ESEM'20, 
 My research interest includes Software Engineering and Human Machine Interaction. I have published 22 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>1876</span></strong></a>.
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE'25).
 - *2025.11*: &nbsp;🎉🎉 I received the "Distinguished Reviewer Award" in ASE 2025.
 - *2025.09*: &nbsp;🎉🎉 A full research paper is accepted at IEEE Transactions on Software Engineering (TSE'25).
 - *2025.08*: &nbsp;🎉🎉 A full research paper is accepted at Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25).
@@ -46,6 +47,9 @@ My research interest includes Software Engineering and Human Machine Interaction
 - *2020.09*: &nbsp;🎉🎉 I received the ACM Student Research Competition (SRC) at ASE 2020, ***1st Place***, Graduate Category.  
 
 # 📝 Publications 
+1. [FSE 2026] **From Suspicious Signals to Crashes: Guiding Bug-driven GUI Testing via Code-inspired Tracing**  
+   The ACM International Conference on the Foundations of Software Engineering (CCF-A)  
+   Mengzhuo Chen, ***Zhe Liu(co-first author)***, Chunyang Chen, Junjie Wang, Boyu Wu, Yuekai Huang, Jun Hu, Qing Wang
 1. [TSE 2025] **Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps**  
    IEEE Transactions on Software Engineering (CCF-A)  
    ***Zhe Liu***, Cheng Li, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yawen Wang, Jun Hu, Qing Wang
